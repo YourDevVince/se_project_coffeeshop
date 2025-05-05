@@ -17,7 +17,7 @@
   background-color: #0a2850;
   justify-content: space-between;
   color: #fff;
-  padding: 119px 80px 173px;
+  padding: 100px 80px 173px;
   position: relative;
   overflow: hidden;
   z-index: 0;
@@ -54,7 +54,7 @@
   width: 426px;
   height: 426px;
   border-radius: 50%;
-  background-color: #2f80ed;
+  background-color: #1878dc;
 }
 
 .about__circle_animation_blurred {

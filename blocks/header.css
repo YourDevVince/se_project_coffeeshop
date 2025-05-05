@@ -2,6 +2,7 @@
   padding: 30px 80px 40px;
   background: center / cover no-repeat #fff url(../images/background_header.svg);
   position: relative;
+  z-index: 1;
   height: 800px;
   display: flex;
   flex-direction: column;
@@ -41,6 +42,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {
